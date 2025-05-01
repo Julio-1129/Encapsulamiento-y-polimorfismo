@@ -1,4 +1,4 @@
-# Encapsulamiento-y-polimorfismo
+# Encapsulamiento
 
 
 # Ejercicio 1: Clase Estudiante
@@ -28,3 +28,6 @@ Descripcion:
 Persona: Clase base con nombre, edad (validada > 0) y documento.
 Paciente: Hereda de Persona y añade diagnóstico e historial médico. Permite agregar y ver el historial, y ver el diagnóstico.
 Doctor: Hereda de Persona y añade especialidad. Permite ver la especialidad y modificar el diagnóstico de un paciente.
+
+
+# Polimorfismo
